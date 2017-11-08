@@ -1,0 +1,2 @@
+<view>latitude：{{latitude}}</view>
+<view>longitude：{{longitude}}</view>

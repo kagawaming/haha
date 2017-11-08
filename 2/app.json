@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/copyright/copyright",
+    "pages/index/index",   
+    "pages/post/post" 
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "test for getlocation",
+    "navigationBarTextStyle":"black"
+  }
+}

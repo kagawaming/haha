@@ -1,0 +1,15 @@
+<view class="input">
+ <input  bindinput="bindKeyInput" placeholder="say something..."/>
+</view>
+<view class="imagebutton">
+ <button type="default" bindtap="choose_image">add photo</button>
+</view>
+<view>
+<image style="width: 200px; height: 200px; background-color: #eeeeee;" mode="aspectFill" src="{{showimage}}"></image>
+</view>
+<view>
+<view class="send"><button type="default" bindtap="saveimage">send</button></view>
+</view>
+<view>
+{{showimage}}
+</view>

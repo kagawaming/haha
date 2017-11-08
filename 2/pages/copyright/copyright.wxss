@@ -1,0 +1,19 @@
+.copyright{
+    color: lightyellow;
+    padding: 5px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-align: center;
+    background-color: lightseagreen;
+}
+.copyright_item{
+    margin-top: 7px;
+}
+
+.goto_counter{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
